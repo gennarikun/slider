@@ -387,10 +387,10 @@ dl {
   font-size: 22px;
 }
 .slider-container .swiper-button-prev {
-  left: 12px;
+  left: 0;
 }
 .slider-container .swiper-button-next {
-  right: 12px;
+  right: 0;
 }
 .slider-container .swiper-pagination {
   position: absolute;
